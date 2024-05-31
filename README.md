@@ -21,7 +21,8 @@ Check out the puzzle_example-protected file!
 -  No.1
 -  https://htmlpreview.github.io/?https://github.com/autotunafish/passwordpuzzles/blob/main/mar8_24-protected.html
 -  
--
+-  No.2
+-  https://htmlpreview.github.io/?https://github.com/autotunafish/passwordpuzzles/blob/main/may30_24-protected.html
 
 -
 
