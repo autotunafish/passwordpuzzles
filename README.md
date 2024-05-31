@@ -2,11 +2,13 @@
 A collection of password-style puzzles.
 #
 -  Online Links
--  
+
+-  Example 0
 -  https://htmlpreview.github.io/?https://github.com/autotunafish/passwordpuzzles/blob/main/puzzle_example-protected.html
 
+-  No.1
 -  https://htmlpreview.github.io/?https://github.com/autotunafish/passwordpuzzles/blob/main/mar8_24-protected.html
-
+-  
 -
 
 -
