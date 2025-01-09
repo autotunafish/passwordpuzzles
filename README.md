@@ -26,7 +26,9 @@ Check out the Example puzzle_example-protected file!
 -  
 -  No.3
 -  https://htmlpreview.github.io/?https://github.com/autotunafish/passwordpuzzles/blob/main/jun04_24-protected.html
-
+-
+-  No.4
+-  https://htmlpreview.github.io/?https://github.com/autotunafish/passwordpuzzles/blob/main/jan9_25-protected.html
 #
 
 Files are encrypted using PageCrypt (MIT). https://github.com/MaxLaumeister/PageCrypt
