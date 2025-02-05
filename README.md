@@ -18,7 +18,7 @@ Check out the Example puzzle_example-protected file!
 -  Example 
 -  https://htmlpreview.github.io/?https://github.com/autotunafish/passwordpuzzles/blob/main/puzzle_example-protected.html
 -
--  No.1   (Known Solved)
+-  No.1   (Known Solved!!)
 -  https://htmlpreview.github.io/?https://github.com/autotunafish/passwordpuzzles/blob/main/mar8_24-protected.html
 -  
 -  No.2
@@ -27,7 +27,7 @@ Check out the Example puzzle_example-protected file!
 -  No.3
 -  https://htmlpreview.github.io/?https://github.com/autotunafish/passwordpuzzles/blob/main/jun04_24-protected.html
 -
--  No.4
+-  No.4  (Known Solved!!)
 -  https://htmlpreview.github.io/?https://github.com/autotunafish/passwordpuzzles/blob/main/jan9_25-protected.html
 #
 
